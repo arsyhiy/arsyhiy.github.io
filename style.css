@@ -1,0 +1,15 @@
+.top-panel {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* центрировать элементы */
+  gap: 15px;
+
+  height: 60px;
+  background: #222;
+  color: white;
+
+  position: fixed; /* закрепить сверху */
+  top: 0;
+  left: 0;
+  width: 100%;
+}

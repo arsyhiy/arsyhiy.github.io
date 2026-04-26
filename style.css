@@ -36,10 +36,9 @@ body {
   line-height: 1.2;
 }
 .header button {
-
-    text-align: left;
-    font-size: 16px;
-    padding: 10px 18px;
+  text-align: left;
+  font-size: 16px;
+  padding: 10px 18px;
 }
 
 /* footer */
@@ -50,13 +49,12 @@ body {
   text-align: center;
 }
 
-
 /* contacts */
-.contacts{
-    margin: 20px;
-    padding: 20px;
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-    border-left: 5px solid #007BFF;
+.contacts {
+  margin: 20px;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  border-left: 5px solid #007bff;
 }

@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  background: skyblue;
+}
+/* .business_card{ */
+/*     text-align:  left; */
+/* } */
+/* .business_card img{ */
+/*     border: 5px solid blue; */
+/*     width: 30vw; */
+/*     height: 50hw; */
+/* } */
+
+.container {
+  display: flex;
+  align-items: center; /* выравнивание по вертикали */
+  background-color: #1d2942;
+  margin: 20px;
+  border-radius: 20px;
+}
+.container img {
+  margin: 10px;
+  border-radius: 20px;
+}
+
+/* header*/
+.header {
+  background: #222;
+  color: white;
+  padding: 4px 10px;
+  /* text-align: center; */
+}
+.header h1 {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.2;
+}
+.header button {
+
+    text-align: left;
+    font-size: 16px;
+    padding: 10px 18px;
+}
+
+/* footer */
+.footer {
+  background: #222;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+
+/* contacts */
+.contacts{
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    border-left: 5px solid #007BFF;
+}

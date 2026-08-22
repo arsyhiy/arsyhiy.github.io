@@ -1,0 +1,2 @@
+# ideas 
+- writing with react

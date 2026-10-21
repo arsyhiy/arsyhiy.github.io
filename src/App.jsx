@@ -117,6 +117,17 @@ function App() {
       <section id="spacer"></section>
          */}
 
+    <div class="container">
+      <div class="photo">
+        <img src="old/portrait_photography.jpg" />
+      </div>
+      <div class="contact_info">
+        <h1>Arseniy Popandopulo</h1>
+        <h1>contact me:</h1>
+        <h1>arsyhiy32@gmail.com</h1>
+      </div>
+    </div>
+
     </>
   )
 }

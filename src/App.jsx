@@ -119,10 +119,10 @@ function App() {
 
     <div class="container">
       <div class="photo">
-<img
-  src={`${import.meta.env.BASE_URL}old/portrait_photography.jpg`}
-  alt="Моя фотография"
-/>
+  <img
+    src={`${import.meta.env.BASE_URL}portrait_photography.jpg`}
+    alt="Моя фотография"
+  />
       </div>
       <div class="contact_info">
         <h1>Arseniy Popandopulo</h1>
